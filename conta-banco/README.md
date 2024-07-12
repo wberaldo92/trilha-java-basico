@@ -1,6 +1,6 @@
-## Getting Started
+## Descrição do Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
 
 ## Folder Structure
 
