@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class DesafioPedraPapelAtak {
     public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);
